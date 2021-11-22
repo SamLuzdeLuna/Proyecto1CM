@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Proyecto 1 CM</string>
+    <string name="nombre">Nombre:</string>
+    <string name="botonenviar">Enviar</string>
+    <string name="nacimiento">Fecha de nacimiento:</string>
+    <string name="numcta">Numero de Cuenta:</string>
+    <string name="correo">Correo:</string>
+    <string name="hntnocta">Cuenta UNAM</string>
+    <string name="htnombre">Nombre</string>
+    <string name="fnacimiento">Fecha Nacimiento</string>
+    <string name="hntemail">e-mail</string>
+    <string name="toastmsg">Debes llenar todos los campos</string>
+    <string name="errormsg">Ingresa un valor</string>
+    <string name="errormsg2">Ingresa un dato valido con rango de 1-31</string>
+    <string name="errormsg3">Ingresa un dato valido con rango de 1-12</string>
+    <string name="hntdia">Dia</string>
+    <string name="hntmes">Mes</string>
+    <string name="htnyear">Año</string>
+
+    <string name="signorat">Rata</string>
+    <string name="signobuey">Buey</string>
+    <string name="signotiger">Tigre</string>
+    <string name="signoconejo">Conejo</string>
+    <string name="signodragon">Dragon</string>
+    <string name="signoserpt">Serpiente</string>
+    <string name="signocabo">Caballo</string>
+    <string name="signocabra">Cabra</string>
+    <string name="signomono">Mono</string>
+    <string name="signogallo">Gallo</string>
+    <string name="signodog">Perro</string>
+    <string name="signopig">Cerdo</string>
+
+
+</resources>

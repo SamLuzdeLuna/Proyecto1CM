@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyecto 1 CM</string>
+    <string name="nombre">이름:</string>
+    <string name="botonenviar">보내다</string>
+    <string name="nacimiento">생일:</string>
+    <string name="numcta">계좌 번호:</string>
+    <string name="correo">이메일:</string>
+    <string name="hntnocta">UNAM 계정</string>
+    <string name="htnombre">이름</string>
+    <string name="fnacimiento">생일</string>
+    <string name="hntemail">이메일</string>
+    <string name="toastmsg">모든 필드를 작성해야 합니다</string>
+    <string name="errormsg">값을 입력하세요</string>
+    <string name="hntdia">일</string>
+    <string name="hntmes">월</string>
+    <string name="htnyear">년</string>
+    <string name="signorat">쥐</string>
+    <string name="signobuey">황소</string>
+    <string name="signotiger">호랑이</string>
+    <string name="signoconejo">토끼</string>
+    <string name="signodragon">용</string>
+    <string name="signoserpt">뱀</string>
+    <string name="signocabo">말</string>
+    <string name="signocabra">염소</string>
+    <string name="signomono">원숭이</string>
+    <string name="signodog">개</string>
+    <string name="signopig">돼지</string>
+    <string name="signogallo">수탉</string>
+    <string name="errormsg2">1-31 범위의 유효한 데이터를 입력하세요</string>
+    <string name="errormsg3">1-12 범위의 유효한 데이터를 입력하세요</string>
+
+</resources>
